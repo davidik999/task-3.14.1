@@ -13,7 +13,7 @@ LICENSE: [MIT](./license.md)
 ## Основные команды в GIT:
 
 ### Содержание:
-1. Что то 
+1. [git config](./gitconfig.md)
 2. [git add](./add.md)
 
 ---
