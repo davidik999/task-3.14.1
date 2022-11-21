@@ -3,7 +3,7 @@
 
 LICENSE: [MIT](./license.md)
 
-![Git logotip](./)
+![Git logotip](./Files/Git-logo-orange.png)
 
 # *Для чего нужен **GIT** и что он из себя представляет*
 
