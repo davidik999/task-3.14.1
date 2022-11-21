@@ -18,6 +18,7 @@ LICENSE: [MIT](./license.md)
 3. [git init](./gitinit.md)
 4. [git commit](./gitcommit.md)
 5. [git branch](./gitbranch.md)
+6. [git remote add](./gitremoteadd.md)
 ---
 
 GIT logo by Jason Long https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Git-logo-orange.svg/2560px-Git-logo-orange.svg.png, license: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) 
